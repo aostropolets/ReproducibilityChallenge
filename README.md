@@ -1,19 +1,13 @@
-[Study title]
+OHDSI Reproducibility Challenge
 =============
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Design%20Finalized-brightgreen.svg" alt="Study Status: Design Finalized">
 
-- Analytics use case(s): **-**
-- Study type: **-**
-- Tags: **-**
-- Study lead: **-**
-- Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
-- Study start date: **-**
-- Study end date: **-**
-- Protocol: **-**
-- Publications: **-**
-- Results explorer: **-**
+- Analytics use case(s): Characterization
+- Study type: Methods Research
+- Study lead: Patrick Ryan and Anna Ostropolets
+- Study lead forums tag:[Patrick Ryan](https://forums.ohdsi.org/u/aostropolets) and [Anna Ostropolets](https://forums.ohdsi.org/u/patrick_ryan)
+- Study start date: October 2021
+- Study end date: ongoing
 
-[Description (single paragraph)]
-
-[You can add other text at this point]
+This repo serves as a reference for the OHDSI reproducibility challenge, which aimed to reproduce the populations (exposures and outcomes) used in the analysis by Albogami et al. The study resulted from the workshop aimed to quantify the heterogeneity of interpretations that qualified researchers may produce when attempting to reproduce the same study.  
